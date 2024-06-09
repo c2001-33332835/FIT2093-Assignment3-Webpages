@@ -1,0 +1,5 @@
+I'm member ID: 1, This is my private document 1
+
+Almost any source of data can be an injection vector, environment variables, parameters, external and internal web services, and all types of users. Injection flaws occur when an attacker can send hostile data to an interpreter.
+
+

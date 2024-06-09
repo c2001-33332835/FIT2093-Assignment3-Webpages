@@ -1,0 +1,8 @@
+I'm member Camy, This is my private document 1
+
+I'm sure the following personal information is well protected from other group members by  our Broken App. 
+
+Attackers have access to hundreds of millions of valid username and password combinations for credential stuffing, default administrative account lists, automated brute force, and dictionary attack tools. Session management attacks are well understood, particularly in relation to unexpired session tokens.
+
+
+

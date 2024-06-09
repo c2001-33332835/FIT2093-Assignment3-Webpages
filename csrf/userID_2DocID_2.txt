@@ -1,0 +1,7 @@
+I'm member ID: 2, This is my private document 2
+
+The prevalence of broken authentication is widespread due to the design and implementation of most identity and access controls. Session management is the bedrock of authentication and access controls, and is present in all stateful applications.
+Attackers can detect broken authentication using manual means and exploit them using automated tools with password lists and dictionary attacks.
+
+
+
